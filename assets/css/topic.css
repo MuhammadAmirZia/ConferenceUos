@@ -1,0 +1,10 @@
+.tab-section{position:relative;overflow:hidden;padding-top:50px}.tab-section .section-title-boxed{left:59px;padding:10px 17px}.section-title-boxed{position:absolute;background:#fff;left:48px;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);z-index:9}.tab-section-inner{margin:0;padding:60px 40px 95px;position:relative}.section-title-boxed h2{font-size:50px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;line-height:50px;display:inline;font-family:Rubik,sans-serif;color:#182b78}.tab-section-inner{border:6px solid #182b78;margin:0;padding:60px 40px 38px;position:relative}.tab-section-inner p{font-size:18px;color:#0c1746}
+@media only screen and (max-width: 991px){
+    .section-title-boxed h2{
+        font-size: 30px;
+    }
+    .tab-section .section-title-boxed{
+        left:34px;
+        width: 81%;
+    }
+  }
